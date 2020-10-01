@@ -1,0 +1,128 @@
+*{
+   
+    font-family: "Lucida Console", Monaco, monospace, oblique ;
+    font-style: oblique;
+    color: rgb(0, 0, 0);     
+}
+
+body 
+ {   
+     font-size: larger; 
+     background-color: rgb(194, 194, 194);
+     text-align: center;
+    
+} 
+
+
+.biocontainer 
+ {   margin-top: 20px;
+     margin-right: 20%;
+     margin-left: 15%;
+     padding-right: 5%;
+     border: 5px solid black;
+     
+     
+}
+
+.clearfix::after {
+ content: "";
+ clear: both;
+ display: table;
+
+ 
+}
+
+/* .biocontainer img 
+ {
+     float: left;
+     height: 150px;
+     width: 150px
+} */
+
+
+.form-group
+ {
+     width: 55%;
+     height: 75%;
+     margin-top: 10%;
+     margin-left: 25%;
+     border-style: solid;
+     border-color: rgb(106, 0, 116);
+     border-width: 5px;
+     background-color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0);
+     text-align: center;
+}
+   
+  
+.form-group input 
+ {
+
+     background-color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0);
+     text-align: center;
+}
+
+.form-group label 
+ {
+
+     background-color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0);
+     text-align: center;
+}
+
+
+.portfoliocontainer 
+ {
+ 
+     margin-left: 42%;
+     border-width: 5px;
+} 
+ 
+.portfoliocontainer img 
+ {
+     height: 150px;
+     width: 150px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+     border-style: solid;
+}
+
+.bgimg 
+{
+    align-content: center;
+    width: 55%
+}
+
+.card img
+{
+    height: 200px;
+    width: 200px;
+    
+}
+
+ .card-body
+ {
+    align-content: center;
+ }
+ .card {
+    background-color: whitesmoke;
+
+    padding: 5px;
+    border: 3px solid rgb(106, 0, 116);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    position: static;
+ }
+
+
+ 
+
+  
+ 
+ 
+
+
